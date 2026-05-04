@@ -1,0 +1,39 @@
+# ===== CORE =====
+numpy
+pillow
+opencv-python
+scipy
+pandas
+matplotlib
+
+# ===== PDF =====
+PyMuPDF
+
+# ===== OCR =====
+vietocr
+python-doctr
+
+# ===== TORCH =====
+torch
+torchvision
+
+# ===== NLP / EMBEDDINGS =====
+sentence-transformers
+underthesea
+
+# ===== LANGCHAIN =====
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-google-genai
+langchain-text-splitters
+
+# ===== VECTOR DB =====
+faiss-cpu
+
+# ===== UTIL =====
+gdown
+tqdm
+tabulate
+python-dotenv
